@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AnkitG Family Tools</string>
+    <string name="app_developer">Ankit Gothwal</string>
+    <string name="app_copyright">Copyright ©️ 2026 Ankit Gothwal. All rights reserved.</string>
+    <string name="app_tagline">Your all-in-one family utility for PDF, Image, and Video tasks</string>
+
+    <!-- Navigation & Headers -->
+    <string name="nav_home">Home</string>
+    <string name="nav_pdf">PDF Tools</string>
+    <string name="nav_image">Image Tools</string>
+    <string name="nav_video">Video Tools</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Category Headers with Hindi Subtitles -->
+    <string name="cat_pdf_title">PDF Tools</string>
+    <string name="cat_pdf_subtitle">पीडीएफ टूल्स - साइन, मर्ज, कंप्रेस</string>
+    <string name="cat_image_title">Image Tools</string>
+    <string name="cat_image_subtitle">फोटो टूल्स - क्रॉप, रिसाइज़, कंप्रेस</string>
+    <string name="cat_video_title">Video Tools</string>
+    <string name="cat_video_subtitle">वीडियो टूल्स - कंप्रेस, ट्रिम, ऑडियो</string>
+
+    <!-- Quick Shortcuts -->
+    <string name="shortcut_sign_pdf">Sign PDF</string>
+    <string name="shortcut_sign_pdf_hi">दस्तावेज़ पर हस्ताक्षर करें</string>
+    <string name="shortcut_compress_video">Compress Video</string>
+    <string name="shortcut_compress_video_hi">वीडियो साइज़ छोटा करें</string>
+    <string name="shortcut_merge_pdf">Merge PDF</string>
+    <string name="shortcut_merge_pdf_hi">पीडीएफ फाइलें जोड़ें</string>
+    <string name="shortcut_crop_image">Crop Image</string>
+    <string name="shortcut_crop_image_hi">फोटो क्रॉप करें</string>
+    <string name="shortcut_img_to_pdf">Image to PDF</string>
+    <string name="shortcut_img_to_pdf_hi">फोटो से पीडीएफ बनाएं</string>
+    <string name="shortcut_scan_doc">Scan Document</string>
+    <string name="shortcut_scan_doc_hi">दस्तावेज़ स्कैन करें</string>
+
+    <!-- Common Actions -->
+    <string name="action_open">Open</string>
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_process">Start Processing</string>
+    <string name="action_select_file">Select File</string>
+    <string name="action_select_files">Select Files</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+
+    <!-- Status & Alerts -->
+    <string name="status_processing">Processing, please wait…</string>
+    <string name="status_success">Operation completed successfully!</string>
+    <string name="status_failed">Operation failed. Please try again.</string>
+    <string name="status_saved_to">Saved to: %1$s</string>
+    <string name="disclaimer_electronic_sign">Notice: This drawn signature is an electronic signature image and does not represent a cryptographically verified digital PKI certificate.</string>
+
+    <!-- Privacy & About -->
+    <string name="privacy_title">100% Offline &amp; Private</string>
+    <string name="privacy_desc">All documents, images, signatures, and videos stay strictly on your phone. No tracking, no uploads, no ads.</string>
+</resources>
